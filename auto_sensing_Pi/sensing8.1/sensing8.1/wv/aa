@@ -1,0 +1,34 @@
+Using built-in specs.
+COLLECT_GCC=gcc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/arm-linux-gnueabihf/6/lto-wrapper
+Target: arm-linux-gnueabihf
+Configured with: ../src/configure -v --with-pkgversion='Raspbian 6.3.0-18+rpi1+deb9u1' --with-bugurl=file:///usr/share/doc/gcc-6/README.Bugs --enable-languages=c,ada,c++,java,go,d,fortran,objc,obj-c++ --prefix=/usr --program-suffix=-6 --program-prefix=arm-linux-gnueabihf- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --with-sysroot=/ --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-libitm --disable-libquadmath --enable-plugin --with-system-zlib --disable-browser-plugin --enable-java-awt=gtk --enable-gtk-cairo --with-java-home=/usr/lib/jvm/java-1.5.0-gcj-6-armhf/jre --enable-java-home --with-jvm-root-dir=/usr/lib/jvm/java-1.5.0-gcj-6-armhf --with-jvm-jar-dir=/usr/lib/jvm-exports/java-1.5.0-gcj-6-armhf --with-arch-directory=arm --with-ecj-jar=/usr/share/java/eclipse-ecj.jar --with-target-system-zlib --enable-objc-gc=auto --enable-multiarch --disable-sjlj-exceptions --with-arch=armv6 --with-fpu=vfp --with-float=hard --enable-checking=release --build=arm-linux-gnueabihf --host=arm-linux-gnueabihf --target=arm-linux-gnueabihf
+Thread model: posix
+gcc version 6.3.0 20170516 (Raspbian 6.3.0-18+rpi1+deb9u1) 
+COLLECT_GCC_OPTIONS='-v' '-march=armv6' '-mfloat-abi=hard' '-mfpu=vfp' '-mtls-dialect=gnu'
+ /usr/lib/gcc/arm-linux-gnueabihf/6/cc1 -quiet -v -imultilib . -imultiarch arm-linux-gnueabihf test.c -quiet -dumpbase test.c -march=armv6 -mfloat-abi=hard -mfpu=vfp -mtls-dialect=gnu -auxbase test -version -o /tmp/ccc1slas.s
+GNU C11 (Raspbian 6.3.0-18+rpi1+deb9u1) version 6.3.0 20170516 (arm-linux-gnueabihf)
+	compiled by GNU C version 6.3.0 20170516, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=93 --param ggc-min-heapsize=118680
+ignoring nonexistent directory "/usr/local/include/arm-linux-gnueabihf"
+ignoring nonexistent directory "/usr/lib/gcc/arm-linux-gnueabihf/6/../../../../arm-linux-gnueabihf/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc/arm-linux-gnueabihf/6/include
+ /usr/local/include
+ /usr/lib/gcc/arm-linux-gnueabihf/6/include-fixed
+ /usr/include/arm-linux-gnueabihf
+ /usr/include
+End of search list.
+GNU C11 (Raspbian 6.3.0-18+rpi1+deb9u1) version 6.3.0 20170516 (arm-linux-gnueabihf)
+	compiled by GNU C version 6.3.0 20170516, GMP version 6.1.2, MPFR version 3.1.5, MPC version 1.0.3, isl version 0.15
+GGC heuristics: --param ggc-min-expand=93 --param ggc-min-heapsize=118680
+Compiler executable checksum: 06e7ff733c4083cc9ddae86e30496f12
+COLLECT_GCC_OPTIONS='-v' '-march=armv6' '-mfloat-abi=hard' '-mfpu=vfp' '-mtls-dialect=gnu'
+ as -v -march=armv6 -mfloat-abi=hard -mfpu=vfp -meabi=5 -o /tmp/ccQl53PS.o /tmp/ccc1slas.s
+GNU アセンブラ バージョン 2.28 (arm-linux-gnueabihf)、BFD バージョン (GNU Binutils for Raspbian) 2.28 を使用
+COMPILER_PATH=/usr/lib/gcc/arm-linux-gnueabihf/6/:/usr/lib/gcc/arm-linux-gnueabihf/6/:/usr/lib/gcc/arm-linux-gnueabihf/:/usr/lib/gcc/arm-linux-gnueabihf/6/:/usr/lib/gcc/arm-linux-gnueabihf/
+LIBRARY_PATH=/usr/lib/gcc/arm-linux-gnueabihf/6/:/usr/lib/gcc/arm-linux-gnueabihf/6/../../../arm-linux-gnueabihf/:/usr/lib/gcc/arm-linux-gnueabihf/6/../../../:/lib/arm-linux-gnueabihf/:/lib/:/usr/lib/arm-linux-gnueabihf/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-march=armv6' '-mfloat-abi=hard' '-mfpu=vfp' '-mtls-dialect=gnu'
+ /usr/lib/gcc/arm-linux-gnueabihf/6/collect2 -plugin /usr/lib/gcc/arm-linux-gnueabihf/6/liblto_plugin.so -plugin-opt=/usr/lib/gcc/arm-linux-gnueabihf/6/lto-wrapper -plugin-opt=-fresolution=/tmp/cc8CPu9m.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -dynamic-linker /lib/ld-linux-armhf.so.3 -X --hash-style=gnu -m armelf_linux_eabi /usr/lib/gcc/arm-linux-gnueabihf/6/../../../arm-linux-gnueabihf/crt1.o /usr/lib/gcc/arm-linux-gnueabihf/6/../../../arm-linux-gnueabihf/crti.o /usr/lib/gcc/arm-linux-gnueabihf/6/crtbegin.o -L/usr/lib/gcc/arm-linux-gnueabihf/6 -L/usr/lib/gcc/arm-linux-gnueabihf/6/../../../arm-linux-gnueabihf -L/usr/lib/gcc/arm-linux-gnueabihf/6/../../.. -L/lib/arm-linux-gnueabihf -L/usr/lib/arm-linux-gnueabihf /tmp/ccQl53PS.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/arm-linux-gnueabihf/6/crtend.o /usr/lib/gcc/arm-linux-gnueabihf/6/../../../arm-linux-gnueabihf/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-march=armv6' '-mfloat-abi=hard' '-mfpu=vfp' '-mtls-dialect=gnu'

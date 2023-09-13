@@ -1,0 +1,37 @@
+以下はpython3用のライブラリ導入方法で、基本的には３を使う。
+sudo apt-get install python3-numpy
+sudo apt-get install python3-imaging
+sudo apt-get install python3-matplotlib
+
+
+opencvはpython２を使う（3での導入がたいへんなため）
+sudo apt-get install python-numpy
+sudo apt-get install python-imaging
+sudo apt-get install python-matplotlib
+sudo apt-get install libopencv-dev
+sudo apt-get install python-opencv
+
+動画再生方法 
+omxplayer hoge.mp4  
+(Ctrl+C  for stop) 
+
+
+----FPGA----
+libftd2xx-arm-V&-hf-1.4.8 をネットからダウンロードし動画を見ながら導入
+cd Donwloads/
+tar xfvz libftd2xx-arm-v6-hf-1.4.8.tgz
+cd release/
+sudo -s cp release/build/lib* /usr/local/lib^C
+cd /usr/local/lib
+sudo ln -s libftd2xx.so.1.4.8
+sudo ln -s libftd2xx.so.1.4.8 libftd2xx.so
+sudo chmod 0755 libftd2xx.so.1.4.8
+ここまでが導入
+以下test
+sudo rmmod ftdi_sio
+sudo rmmod usbserial 
+cd Downloads/release/examples/
+make -B
+cd EEPROM/read
+sudo ./read
+エラーでなければok

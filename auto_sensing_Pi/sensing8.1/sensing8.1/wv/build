@@ -1,0 +1,10 @@
+#!/bin/sh
+
+INCS="-I/opt/vc/include -I/usr/local/include"
+LIBS1="-lm -lbcm_host -L/opt/vc/lib -L/usr/local/lib"
+CFLAGS1="-pthread -O2 -Wall"
+
+
+gcc ${CFLAGS1} ${CFLAGS2} ex_chirp.c -o ex_chirp `pkg-config --cflags --libs gtk+-3.0`  ${INCS} ${LIBS1} ${LIBS2}
+
+

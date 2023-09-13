@@ -1,0 +1,561 @@
+$ trial = 1
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.5847 deg :alpha = 205
+1194.4200 mm  6.6416 deg :alpha = 142
+1202.4100 mm 25.8111 deg :alpha = 97
+1194.4200 mm -5.4656 deg :alpha = 133
+1197.0550 mm  0.5847 deg :alpha = 92
+1205.0450 mm 19.2664 deg :alpha = 63
+1202.3250 mm -24.3051 deg :alpha = 98
+1204.9600 mm -17.8274 deg :alpha = 68
+1212.9500 mm  0.7796 deg :alpha = 46
+
+$ trial = 2
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.1949 deg :alpha = 213
+1194.5900 mm  6.6416 deg :alpha = 146
+1202.4100 mm 25.3789 deg :alpha = 104
+1194.4200 mm -5.8573 deg :alpha = 136
+1197.2250 mm  0.5847 deg :alpha = 93
+1205.0450 mm 18.8540 deg :alpha = 67
+1202.3250 mm -24.7335 deg :alpha = 95
+1205.1300 mm -17.8274 deg :alpha = 65
+1212.9500 mm  0.3898 deg :alpha = 47
+
+$ trial = 3
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.5500 mm  0.7796 deg :alpha = 201
+1195.1850 mm  6.8379 deg :alpha = 142
+1203.0900 mm 25.8111 deg :alpha = 100
+1195.1850 mm -5.2698 deg :alpha = 131
+1197.8200 mm  0.7796 deg :alpha = 92
+1205.7250 mm 19.2664 deg :alpha = 65
+1203.1750 mm -24.3051 deg :alpha = 96
+1205.8100 mm -17.8274 deg :alpha = 68
+1213.7150 mm  0.5847 deg :alpha = 48
+
+$ trial = 4
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.5847 deg :alpha = 212
+1194.3350 mm  6.4454 deg :alpha = 149
+1202.3250 mm 25.5948 deg :alpha = 105
+1194.3350 mm -5.2698 deg :alpha = 136
+1196.8850 mm  0.5847 deg :alpha = 96
+1204.8750 mm 19.2664 deg :alpha = 67
+1202.3250 mm -24.3051 deg :alpha = 99
+1204.8750 mm -18.0322 deg :alpha = 69
+1212.8650 mm  0.5847 deg :alpha = 49
+
+$ trial = 5
+# pairnum = 6 avoidancedeg = -4 pulse_duration_ratio =  1 
+1193.4850 mm -0.1949 deg :alpha = 202
+1196.1200 mm  5.8573 deg :alpha = 142
+1204.1100 mm 24.9483 deg :alpha = 101
+1196.0350 mm -6.0533 deg :alpha = 132
+1198.6700 mm  0.0000 deg :alpha = 93
+1206.6600 mm 18.6482 deg :alpha = 66
+
+$ trial = 6
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.5847 deg :alpha = 217
+1194.3350 mm  6.4454 deg :alpha = 151
+1202.2400 mm 25.3789 deg :alpha = 107
+1194.3350 mm -5.2698 deg :alpha = 140
+1196.8850 mm  0.5847 deg :alpha = 97
+1204.7900 mm 19.0601 deg :alpha = 69
+1202.3250 mm -24.3051 deg :alpha = 102
+1204.8750 mm -18.0322 deg :alpha = 70
+1212.7800 mm  0.3898 deg :alpha = 50
+
+$ trial = 7
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.7200 mm  0.3898 deg :alpha = 194
+1195.4400 mm  6.6416 deg :alpha = 140
+1203.1750 mm 25.1634 deg :alpha = 95
+1195.2700 mm -5.4656 deg :alpha = 131
+1197.9900 mm  0.7796 deg :alpha = 95
+1205.7250 mm 18.8540 deg :alpha = 64
+1203.1750 mm -24.3051 deg :alpha = 97
+1205.8950 mm -17.6228 deg :alpha = 70
+1213.6300 mm  0.3898 deg :alpha = 47
+
+$ trial = 8
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7000 mm  0.3898 deg :alpha = 200
+1194.2500 mm  6.2493 deg :alpha = 147
+1202.3250 mm 25.5948 deg :alpha = 104
+1194.3350 mm -5.6614 deg :alpha = 133
+1196.8850 mm  0.1949 deg :alpha = 98
+1204.9600 mm 19.0601 deg :alpha = 69
+1202.3250 mm -24.7335 deg :alpha = 91
+1204.8750 mm -18.4426 deg :alpha = 67
+1212.9500 mm  0.3898 deg :alpha = 47
+
+$ trial = 9
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.5500 mm  0.3898 deg :alpha = 205
+1195.2700 mm  6.6416 deg :alpha = 144
+1203.0900 mm 25.3789 deg :alpha = 100
+1195.2700 mm -5.8573 deg :alpha = 135
+1197.9900 mm  0.3898 deg :alpha = 95
+1205.8100 mm 18.6482 deg :alpha = 65
+1203.0900 mm -24.5192 deg :alpha = 101
+1205.8100 mm -17.8274 deg :alpha = 71
+1213.6300 mm  0.3898 deg :alpha = 49
+
+$ trial = 10
+# pairnum = 9 avoidancedeg = -1 pulse_duration_ratio =  1 
+1192.6350 mm  0.9746 deg :alpha = 212
+1195.1850 mm  6.8379 deg :alpha = 154
+1203.0900 mm 25.8111 deg :alpha = 105
+1195.1850 mm -4.8785 deg :alpha = 142
+1197.7350 mm  0.9746 deg :alpha = 102
+1205.6400 mm 19.4730 deg :alpha = 70
+1203.1750 mm -23.8782 deg :alpha = 96
+1205.7250 mm -17.6228 deg :alpha = 70
+1213.6300 mm  0.7796 deg :alpha = 47
+
+$ trial = 11
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.5300 mm  1.1695 deg :alpha = 225
+1194.2500 mm  7.4271 deg :alpha = 159
+1201.9850 mm 26.0278 deg :alpha = 97
+1194.2500 mm -5.0741 deg :alpha = 147
+1196.9700 mm  1.1695 deg :alpha = 104
+1204.7050 mm 19.2664 deg :alpha = 63
+
+$ trial = 12
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.4000 mm  0.7796 deg :alpha = 212
+1196.1200 mm  7.0342 deg :alpha = 146
+1203.9400 mm 25.8111 deg :alpha = 99
+1196.0350 mm -5.2698 deg :alpha = 138
+1198.7550 mm  0.9746 deg :alpha = 95
+1206.5750 mm 19.2664 deg :alpha = 64
+1203.9400 mm -24.0915 deg :alpha = 97
+1206.6600 mm -17.4184 deg :alpha = 67
+1214.4800 mm  0.7796 deg :alpha = 45
+
+$ trial = 13
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.5847 deg :alpha = 219
+1194.4200 mm  6.6416 deg :alpha = 152
+1202.3250 mm 25.5948 deg :alpha = 105
+1194.3350 mm -5.2698 deg :alpha = 142
+1196.9700 mm  0.7796 deg :alpha = 99
+1204.8750 mm 19.2664 deg :alpha = 68
+1202.4100 mm -24.5192 deg :alpha = 105
+1205.0450 mm -18.0322 deg :alpha = 73
+1212.9500 mm  0.3898 deg :alpha = 50
+
+$ trial = 14
+# pairnum = 6 avoidancedeg = -4 pulse_duration_ratio =  1 
+1192.5500 mm  0.0000 deg :alpha = 218
+1195.1850 mm  6.0533 deg :alpha = 151
+1203.0900 mm 24.9483 deg :alpha = 101
+1195.1000 mm -5.8573 deg :alpha = 141
+1197.7350 mm  0.1949 deg :alpha = 98
+1205.6400 mm 18.6482 deg :alpha = 65
+
+$ trial = 15
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.9550 mm  0.1949 deg :alpha = 201
+1194.5900 mm  6.2493 deg :alpha = 145
+1202.4950 mm 25.1634 deg :alpha = 98
+1194.5900 mm -5.8573 deg :alpha = 132
+1197.2250 mm  0.1949 deg :alpha = 96
+1205.1300 mm 18.6482 deg :alpha = 65
+1202.4100 mm -24.5192 deg :alpha = 92
+1205.0450 mm -18.0322 deg :alpha = 66
+1212.9500 mm  0.3898 deg :alpha = 45
+
+$ trial = 16
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.0600 mm  0.3898 deg :alpha = 212
+1195.6950 mm  6.4454 deg :alpha = 152
+1203.6850 mm 25.5948 deg :alpha = 104
+1195.6100 mm -5.4656 deg :alpha = 141
+1198.2450 mm  0.5847 deg :alpha = 101
+1206.2350 mm 19.2664 deg :alpha = 69
+1203.5150 mm -24.3051 deg :alpha = 98
+1206.1500 mm -17.8274 deg :alpha = 70
+1214.1400 mm  0.7796 deg :alpha = 48
+
+$ trial = 17
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.8700 mm  0.3898 deg :alpha = 199
+1194.4200 mm  6.2493 deg :alpha = 139
+1202.4100 mm 25.3789 deg :alpha = 102
+1194.4200 mm -5.4656 deg :alpha = 130
+1196.9700 mm  0.3898 deg :alpha = 91
+1204.9600 mm 19.0601 deg :alpha = 67
+
+$ trial = 18
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1194.1650 mm  0.5847 deg :alpha = 211
+1196.7150 mm  6.4454 deg :alpha = 151
+1204.7050 mm 25.5948 deg :alpha = 107
+1196.7150 mm -5.2698 deg :alpha = 140
+1199.2650 mm  0.5847 deg :alpha = 100
+1207.2550 mm 19.2664 deg :alpha = 71
+1204.6200 mm -24.0915 deg :alpha = 98
+1207.1700 mm -17.8274 deg :alpha = 70
+1215.1600 mm  0.7796 deg :alpha = 50
+
+$ trial = 19
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1193.1450 mm  0.5847 deg :alpha = 212
+1195.7800 mm  6.6416 deg :alpha = 154
+1203.6000 mm 25.3789 deg :alpha = 99
+1195.6950 mm -5.2698 deg :alpha = 139
+1198.3300 mm  0.7796 deg :alpha = 101
+1206.1500 mm 19.0601 deg :alpha = 65
+
+$ trial = 20
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1192.7200 mm  0.3898 deg :alpha = 201
+1195.3550 mm  6.4454 deg :alpha = 140
+1203.2600 mm 25.3789 deg :alpha = 97
+1195.4400 mm -5.8573 deg :alpha = 131
+1198.0750 mm  0.1949 deg :alpha = 91
+1205.9800 mm 18.6482 deg :alpha = 63
+
+$ trial = 21
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.8050 mm  0.5847 deg :alpha = 187
+1195.3550 mm  6.4454 deg :alpha = 132
+1203.3450 mm 25.5948 deg :alpha = 101
+1195.3550 mm -5.2698 deg :alpha = 124
+1197.9050 mm  0.5847 deg :alpha = 88
+1205.8950 mm 19.2664 deg :alpha = 67
+1203.3450 mm -24.3051 deg :alpha = 94
+1205.8950 mm -18.0322 deg :alpha = 66
+1213.8850 mm  0.5847 deg :alpha = 51
+
+$ trial = 22
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1192.8900 mm  0.7796 deg :alpha = 210
+1195.4400 mm  6.6416 deg :alpha = 152
+1203.2600 mm 25.3789 deg :alpha = 98
+1195.5250 mm -5.2698 deg :alpha = 143
+1198.0750 mm  0.5847 deg :alpha = 103
+1205.8950 mm 18.8540 deg :alpha = 67
+
+$ trial = 23
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.8700 mm  0.3898 deg :alpha = 216
+1194.5900 mm  6.6416 deg :alpha = 150
+1202.3250 mm 25.1634 deg :alpha = 97
+1194.5900 mm -5.8573 deg :alpha = 142
+1197.3100 mm  0.3898 deg :alpha = 99
+1205.0450 mm 18.4426 deg :alpha = 64
+
+$ trial = 24
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.6150 mm  0.5847 deg :alpha = 191
+1194.3350 mm  6.8379 deg :alpha = 132
+1202.2400 mm 25.8111 deg :alpha = 96
+1194.1650 mm -5.2698 deg :alpha = 125
+1196.8850 mm  0.9746 deg :alpha = 86
+1204.7900 mm 19.4730 deg :alpha = 62
+
+$ trial = 25
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.2300 mm -0.3898 deg :alpha = 214
+1195.8650 mm  5.6614 deg :alpha = 153
+1203.7700 mm 24.5192 deg :alpha = 105
+1195.7800 mm -6.2493 deg :alpha = 141
+1198.4150 mm -0.1949 deg :alpha = 101
+1206.3200 mm 18.2373 deg :alpha = 69
+1203.6850 mm -25.1634 deg :alpha = 98
+1206.3200 mm -18.6482 deg :alpha = 70
+1214.2250 mm -0.1949 deg :alpha = 48
+
+$ trial = 26
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.4850 mm  0.1949 deg :alpha = 199
+1196.1200 mm  6.2493 deg :alpha = 144
+1204.1100 mm 25.3789 deg :alpha = 107
+1196.0350 mm -5.6614 deg :alpha = 132
+1198.6700 mm  0.3898 deg :alpha = 95
+1206.6600 mm 19.0601 deg :alpha = 71
+1204.0250 mm -24.7335 deg :alpha = 94
+1206.6600 mm -18.2373 deg :alpha = 68
+1214.6500 mm  0.3898 deg :alpha = 50
+
+$ trial = 27
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.5847 deg :alpha = 199
+1194.3350 mm  6.4454 deg :alpha = 141
+1202.3250 mm 25.5948 deg :alpha = 100
+1194.2500 mm -5.0741 deg :alpha = 132
+1196.8000 mm  0.7796 deg :alpha = 94
+1204.7900 mm 19.4730 deg :alpha = 66
+1202.3250 mm -24.3051 deg :alpha = 96
+1204.8750 mm -18.0322 deg :alpha = 68
+1212.8650 mm  0.5847 deg :alpha = 49
+
+$ trial = 28
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.1949 deg :alpha = 212
+1194.3350 mm  6.0533 deg :alpha = 152
+1202.2400 mm 24.9483 deg :alpha = 106
+1194.3350 mm -5.6614 deg :alpha = 142
+1196.8850 mm  0.1949 deg :alpha = 102
+1204.7900 mm 18.6482 deg :alpha = 71
+1202.2400 mm -24.5192 deg :alpha = 98
+1204.7900 mm -18.2373 deg :alpha = 70
+1212.6950 mm  0.1949 deg :alpha = 49
+
+$ trial = 29
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.9100 mm  0.3898 deg :alpha = 186
+1196.5450 mm  6.4454 deg :alpha = 136
+1204.4500 mm 25.3789 deg :alpha = 92
+1196.6300 mm -5.8573 deg :alpha = 123
+1199.2650 mm  0.1949 deg :alpha = 90
+1207.1700 mm 18.6482 deg :alpha = 61
+1204.4500 mm -24.5192 deg :alpha = 95
+1207.0850 mm -18.0322 deg :alpha = 69
+1214.9900 mm  0.3898 deg :alpha = 47
+
+$ trial = 30
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7000 mm  0.0000 deg :alpha = 186
+1194.3350 mm  6.0533 deg :alpha = 131
+1202.2400 mm 24.9483 deg :alpha = 99
+1194.1650 mm -5.6614 deg :alpha = 124
+1196.8000 mm  0.3898 deg :alpha = 88
+1204.7050 mm 18.8540 deg :alpha = 66
+1202.2400 mm -24.9483 deg :alpha = 95
+1204.8750 mm -18.4426 deg :alpha = 67
+1212.7800 mm  0.0000 deg :alpha = 50
+
+$ trial = 31
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.9550 mm  0.5847 deg :alpha = 207
+1194.5900 mm  6.6416 deg :alpha = 146
+1202.4950 mm 25.5948 deg :alpha = 105
+1194.5900 mm -5.4656 deg :alpha = 136
+1197.2250 mm  0.5847 deg :alpha = 96
+1205.1300 mm 19.0601 deg :alpha = 69
+1202.4950 mm -24.3051 deg :alpha = 97
+1205.1300 mm -17.8274 deg :alpha = 68
+1213.0350 mm  0.5847 deg :alpha = 49
+
+$ trial = 32
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1192.0400 mm  0.3898 deg :alpha = 200
+1194.6750 mm  6.4454 deg :alpha = 144
+1202.4950 mm 25.1634 deg :alpha = 90
+1194.6750 mm -5.6614 deg :alpha = 133
+1197.3100 mm  0.3898 deg :alpha = 95
+1205.1300 mm 18.6482 deg :alpha = 60
+
+$ trial = 33
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.6350 mm  0.1949 deg :alpha = 200
+1195.2700 mm  6.2493 deg :alpha = 137
+1203.1750 mm 25.1634 deg :alpha = 100
+1195.1850 mm -5.6614 deg :alpha = 128
+1197.8200 mm  0.3898 deg :alpha = 88
+1205.7250 mm 18.8540 deg :alpha = 64
+1203.2600 mm -24.9483 deg :alpha = 102
+1205.8950 mm -18.4426 deg :alpha = 70
+1213.8000 mm  0.0000 deg :alpha = 51
+
+$ trial = 34
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.8700 mm  0.3898 deg :alpha = 212
+1194.4200 mm  6.2493 deg :alpha = 148
+1202.4100 mm 25.3789 deg :alpha = 103
+1194.2500 mm -5.0741 deg :alpha = 139
+1196.8000 mm  0.7796 deg :alpha = 97
+1204.7900 mm 19.4730 deg :alpha = 67
+1202.4100 mm -24.5192 deg :alpha = 101
+1204.9600 mm -18.2373 deg :alpha = 70
+1212.9500 mm  0.3898 deg :alpha = 49
+
+$ trial = 35
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7850 mm  0.1949 deg :alpha = 204
+1194.4200 mm  6.2493 deg :alpha = 148
+1202.3250 mm 25.1634 deg :alpha = 102
+1194.4200 mm -5.8573 deg :alpha = 133
+1197.0550 mm  0.1949 deg :alpha = 96
+1204.9600 mm 18.6482 deg :alpha = 67
+1202.3250 mm -24.7335 deg :alpha = 98
+1204.9600 mm -18.2373 deg :alpha = 71
+1212.8650 mm  0.1949 deg :alpha = 49
+
+$ trial = 36
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.7850 mm  0.5847 deg :alpha = 217
+1194.4200 mm  6.6416 deg :alpha = 153
+1202.3250 mm 25.5948 deg :alpha = 101
+1194.5050 mm -5.6614 deg :alpha = 139
+1197.1400 mm  0.3898 deg :alpha = 98
+1205.0450 mm 18.8540 deg :alpha = 64
+
+$ trial = 37
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.7000 mm  0.3898 deg :alpha = 204
+1194.2500 mm  6.2493 deg :alpha = 142
+1202.1550 mm 25.1634 deg :alpha = 98
+1194.3350 mm -5.6614 deg :alpha = 130
+1196.8850 mm  0.1949 deg :alpha = 90
+1204.7900 mm 18.6482 deg :alpha = 62
+
+$ trial = 38
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.3150 mm  0.5847 deg :alpha = 189
+1195.9500 mm  6.6416 deg :alpha = 135
+1203.9400 mm 25.8111 deg :alpha = 99
+1195.9500 mm -5.4656 deg :alpha = 123
+1198.5850 mm  0.5847 deg :alpha = 88
+1206.5750 mm 19.2664 deg :alpha = 64
+1203.9400 mm -24.5192 deg :alpha = 92
+1206.5750 mm -18.0322 deg :alpha = 66
+1214.5650 mm  0.5847 deg :alpha = 48
+
+$ trial = 39
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1192.6350 mm  0.5847 deg :alpha = 197
+1195.1850 mm  6.4454 deg :alpha = 142
+1203.0900 mm 25.3789 deg :alpha = 88
+1195.2700 mm -5.4656 deg :alpha = 130
+1197.8200 mm  0.3898 deg :alpha = 94
+1205.7250 mm 18.8540 deg :alpha = 58
+
+$ trial = 40
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.8700 mm  0.3898 deg :alpha = 218
+1194.4200 mm  6.2493 deg :alpha = 153
+1202.4100 mm 25.3789 deg :alpha = 104
+1194.5050 mm -5.6614 deg :alpha = 140
+1197.0550 mm  0.1949 deg :alpha = 98
+1205.0450 mm 18.8540 deg :alpha = 67
+1202.4100 mm -24.5192 deg :alpha = 100
+1204.9600 mm -18.2373 deg :alpha = 70
+1212.9500 mm  0.3898 deg :alpha = 48
+
+$ trial = 41
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.3150 mm  0.5847 deg :alpha = 200
+1195.9500 mm  6.6416 deg :alpha = 142
+1203.8550 mm 25.5948 deg :alpha = 103
+1195.8650 mm -5.2698 deg :alpha = 132
+1198.5000 mm  0.7796 deg :alpha = 94
+1206.4050 mm 19.2664 deg :alpha = 68
+1203.9400 mm -24.5192 deg :alpha = 98
+1206.5750 mm -18.0322 deg :alpha = 70
+1214.4800 mm  0.3898 deg :alpha = 50
+
+$ trial = 42
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.7000 mm  0.3898 deg :alpha = 195
+1194.4200 mm  6.6416 deg :alpha = 139
+1202.2400 mm 25.3789 deg :alpha = 99
+1194.3350 mm -5.6614 deg :alpha = 132
+1197.0550 mm  0.5847 deg :alpha = 94
+1204.8750 mm 18.8540 deg :alpha = 67
+
+$ trial = 43
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.6550 mm -0.1949 deg :alpha = 204
+1196.2900 mm  5.8573 deg :alpha = 146
+1204.1950 mm 24.7335 deg :alpha = 103
+1196.2050 mm -6.0533 deg :alpha = 137
+1198.8400 mm  0.0000 deg :alpha = 98
+1206.7450 mm 18.4426 deg :alpha = 69
+1204.1950 mm -25.1634 deg :alpha = 97
+1206.8300 mm -18.6482 deg :alpha = 69
+1214.7350 mm -0.1949 deg :alpha = 49
+
+$ trial = 44
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.6350 mm  0.5847 deg :alpha = 205
+1195.1000 mm  6.2493 deg :alpha = 146
+1203.1750 mm 25.5948 deg :alpha = 99
+1195.2700 mm -5.4656 deg :alpha = 132
+1197.7350 mm  0.1949 deg :alpha = 94
+1205.8100 mm 19.0601 deg :alpha = 64
+1203.1750 mm -24.3051 deg :alpha = 102
+1205.6400 mm -18.2373 deg :alpha = 73
+1213.7150 mm  0.5847 deg :alpha = 49
+
+$ trial = 45
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.7000 mm  0.3898 deg :alpha = 219
+1194.3350 mm  6.4454 deg :alpha = 152
+1202.3250 mm 25.5948 deg :alpha = 108
+1194.3350 mm -5.6614 deg :alpha = 142
+1196.9700 mm  0.3898 deg :alpha = 99
+1204.9600 mm 19.0601 deg :alpha = 70
+
+$ trial = 46
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.4450 mm  0.1949 deg :alpha = 207
+1194.0800 mm  6.2493 deg :alpha = 145
+1201.9850 mm 25.1634 deg :alpha = 102
+1194.0800 mm -5.8573 deg :alpha = 135
+1196.7150 mm  0.1949 deg :alpha = 95
+1204.6200 mm 18.6482 deg :alpha = 67
+1202.0700 mm -24.9483 deg :alpha = 99
+1204.7050 mm -18.4426 deg :alpha = 70
+1212.6100 mm  0.0000 deg :alpha = 49
+
+$ trial = 47
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1192.8050 mm  0.5847 deg :alpha = 200
+1195.5250 mm  6.8379 deg :alpha = 140
+1203.4300 mm 25.8111 deg :alpha = 104
+1195.4400 mm -5.4656 deg :alpha = 133
+1198.1600 mm  0.7796 deg :alpha = 94
+1206.0650 mm 19.2664 deg :alpha = 70
+1203.4300 mm -24.5192 deg :alpha = 98
+1206.1500 mm -17.8274 deg :alpha = 69
+1214.0550 mm  0.5847 deg :alpha = 51
+
+$ trial = 48
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1191.7000 mm  0.3898 deg :alpha = 192
+1194.3350 mm  6.4454 deg :alpha = 133
+1202.3250 mm 25.5948 deg :alpha = 94
+1194.4200 mm -5.8573 deg :alpha = 121
+1197.0550 mm  0.1949 deg :alpha = 84
+1205.0450 mm 18.8540 deg :alpha = 59
+1202.2400 mm -24.5192 deg :alpha = 95
+1204.8750 mm -18.0322 deg :alpha = 65
+1212.8650 mm  0.5847 deg :alpha = 46
+
+$ trial = 49
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.8700 mm  0.3898 deg :alpha = 237
+1194.4200 mm  6.2493 deg :alpha = 168
+1202.3250 mm 25.1634 deg :alpha = 107
+1194.4200 mm -5.4656 deg :alpha = 156
+1196.9700 mm  0.3898 deg :alpha = 111
+1204.8750 mm 18.8540 deg :alpha = 70
+
+$ trial = 50
+# pairnum = 9 avoidancedeg = 0 pulse_duration_ratio =  1 
+1193.1450 mm  0.9746 deg :alpha = 207
+1195.6950 mm  6.8379 deg :alpha = 147
+1203.6850 mm 26.0278 deg :alpha = 106
+1195.6950 mm -4.8785 deg :alpha = 136
+1198.2450 mm  0.9746 deg :alpha = 97
+1206.2350 mm 19.6798 deg :alpha = 70
+1203.6850 mm -23.8782 deg :alpha = 105
+1206.2350 mm -17.6228 deg :alpha = 75
+1214.2250 mm  0.9746 deg :alpha = 54
+
+$ trial = 51
+# pairnum = 6 avoidancedeg = -5 pulse_duration_ratio =  1 
+1191.7850 mm  0.1949 deg :alpha = 212
+1194.4200 mm  6.2493 deg :alpha = 145
+1202.4100 mm 25.3789 deg :alpha = 102
+1194.4200 mm -5.8573 deg :alpha = 135
+1197.0550 mm  0.1949 deg :alpha = 92
+1205.0450 mm 18.8540 deg :alpha = 65
+

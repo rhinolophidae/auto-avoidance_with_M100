@@ -1,0 +1,158 @@
+$ trial = 1
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 2
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 3
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 4
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 5
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 6
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 7
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 8
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 9
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 10
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 11
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 12
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 13
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 14
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 15
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 16
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 17
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 18
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 19
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 20
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 21
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 22
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 23
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 24
+# pairnum = 1 avoidancedeg = 0 pulse_duration_ratio =  1 
+309.9100 mm  0.0000 deg :alpha = 85
+
+$ trial = 25
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 26
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 27
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 28
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 29
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 30
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 31
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 32
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 33
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 34
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 35
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 36
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 37
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 38
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 39
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 40
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 41
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 42
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 43
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 44
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 45
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 46
+# pairnum = 4 avoidancedeg = 0 pulse_duration_ratio =  1 
+303.4500 mm  0.0000 deg :alpha = 40
+306.0850 mm  6.0533 deg :alpha = 59
+306.0850 mm -6.0533 deg :alpha = 59
+308.7200 mm  0.0000 deg :alpha = 87
+
+$ trial = 47
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 48
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 49
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 50
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+
+$ trial = 51
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 
+

@@ -1,0 +1,3 @@
+int16 obs_num
+std_msgs/Int32MultiArray obs_dist
+std_msgs/Int32MultiArray obs_direc

@@ -1,0 +1,1 @@
+# pairnum = 0 avoidancedeg = 0 pulse_duration_ratio =  1 

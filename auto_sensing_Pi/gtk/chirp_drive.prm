@@ -1,0 +1,4 @@
+80000.000000	Start Frequency[Hz]
+20000.000000	Stop Frequency[Hz]
+0.005000	Pulse Duration[sec]
+1	Chirp Type

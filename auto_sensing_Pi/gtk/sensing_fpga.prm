@@ -1,0 +1,7 @@
+14	ADC receive num setting
+10	measurement time setting
+31	measurement num setting
+
+16384	ADC receive num
+16.66666	measurement time[ms]
+600	measurement num

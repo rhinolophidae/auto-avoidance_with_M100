@@ -1,0 +1,9 @@
+#!/usr/bin/gnuplot
+
+set terminal png
+set nokey
+set xlabel "f[kHz]"
+set ylabel "|F(W)|"
+set logscale x
+set logscale y
+plot [:][:] '< cat -' using ($1/1000):4 with impulses linewidth 1

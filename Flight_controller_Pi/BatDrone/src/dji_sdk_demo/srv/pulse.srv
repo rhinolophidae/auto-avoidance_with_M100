@@ -1,0 +1,6 @@
+int16 Vthres_UP_L
+int16 Vthres_DOWN_L
+int16 Vthres_UP_R
+int16 Vthres_DOWN_R
+---
+int16 avoid_direc

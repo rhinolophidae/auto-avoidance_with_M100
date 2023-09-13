@@ -1,0 +1,7 @@
+set terminal png
+set nokey
+set xlabel "f[kHz]"
+set ylabel "|F(w)|"
+set logscale x
+set logscale y
+plot [:][:] 'fftw.dat' using ($1/1000):4 with impulses linewidth 1
