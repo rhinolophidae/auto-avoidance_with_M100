@@ -1,20 +1,20 @@
-Date:2023/09/11 written by Yasufumi Yamada. 
-These are back up programs for auto-avoidance flight controller system on M100 with Raspberrypi 3B+. 
+Auto-sensing_Pi
 ----------------------------------------------------------------------------------------------------------------------
- 
-Preset (“auto_sensing_Pi”)
-“auto_sensing_Pi”
-Work with
-・Raspberrypi 3B+
-・Raspbian(OS, https://www.raspberrypi.com/software/operating-systems/)
-・additional sensors with FPGA((XILINX, EDX-302B))
+Date:2023/09/11 written by Yasufumi Yamada. <br>
 
-Download and compile the program.
-$ git clone https://github.com/ (program HP address).git 
-$ cd auto_sensing_Pi
-$ make
+## Preset (“auto_sensing_Pi”)
+“auto_sensing_Pi” <br>
+Work with <br>
+・Raspberrypi 3B+ <br>
+・Raspbian(OS, https://www.raspberrypi.com/software/operating-systems/) <br>
+・additional sensors with FPGA((XILINX, EDX-302B)) <br>
+
+## compile the program.
+download the "auto_sensing_Pi" to your rasp Pi. <br>
+$ cd auto_sensing_Pi <br>
+$ make <br>
 
 usage
-$ python pypysocket_host_real_v2_endress.py
+$ python pypysocket_host_real_v2_endress.py <br>
 $ python sensing_yy_C_based_LPM.py
 
