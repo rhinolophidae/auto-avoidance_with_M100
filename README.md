@@ -16,8 +16,8 @@ Work with <br>
 ・ROS Indigo. http://wiki.ros.org/indigo <br>
 ・DJI Onboard SDK (OSDK) ver 3.7. https://github.com/dji-sdk/Onboard-SDK-ROS/tree/3.7 <br>
 
-## Download and compile the program.
-$ git clone https://github.com/ (program HP address).git  <br>
+## compile the program.
+download the “Flight_controller_Pi” to your Rasp Pi <br>
 $ cd BatDrone  <br>
 $ catkin_make  <br>
 
@@ -33,8 +33,8 @@ Work with <br>
 ・Raspbian(OS, https://www.raspberrypi.com/software/operating-systems/) <br>
 ・additional sensors with FPGA((XILINX, EDX-302B)) <br>
 
-## Download and compile the program.
-$ git clone https://github.com/ (program HP address).git <br>
+## compile the program.
+download the “auto_sensing_Pi” to your Rasp Pi <br>
 $ cd auto_sensing_Pi <br>
 $ make <br>
 
